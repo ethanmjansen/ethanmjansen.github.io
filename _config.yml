@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Ethan Jansen Portfolio
+title: Ethan's Portfolio 
 
 # Short description of your site
-description: Ethan's Portfoli
+description: Some of my cool projects
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
