@@ -5,7 +5,7 @@ subtitle: Suicide rates in The US during The latest Recession
 image: /img/martin-ceralde-xceMsVvxcd4-unsplash.jpg
 ---
 
-I will be going over my data wrangling and story telling abilities by sharing my Google Colab notebook and Medium Blog post. My research question is: Did the economic recession in The United States effect suicide rates in America? And if so, who was the most effected by it?
+I will be going over my data wrangling and story telling abilities by sharing my Google Colab Notebook and Medium Blog post. My research question is: Did the economic recession in The United States effect suicide rates in America? And if so, who was the most effected by it?
 
 
 ### Links  
