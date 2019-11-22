@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data Wrangling and Story Telling 
-subtitle: Suicide rates in The US during The latest Recession    
+subtitle: Suicide Rate and The Stock Market    
 image: /img/martin-ceralde-xceMsVvxcd4-unsplash.jpg
 ---
 
