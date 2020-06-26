@@ -13,4 +13,4 @@ with interactive capabilities. I hope you enjoy it as much as I do.
 ### Links   
 - [GitHub](https://github.com/ethanmjansen/Central_Park_Squirrels)
 - [Squirrels of Central Park](https://squirrels-of-central-park.herokuapp.com/)  
-- [LinkedIn](https://www.linkedin.com/in/ethan-jansen-957738190/)
+- [LinkedIn](https://www.linkedin.com/in/ethanjansen/)
