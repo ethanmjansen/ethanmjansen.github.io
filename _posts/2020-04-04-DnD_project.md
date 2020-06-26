@@ -16,5 +16,5 @@ A student in my team wanted to make a DM helper application, we joined a bunch o
 ### Links  
 - [Dungeon Master Tools](https://dmtools.pythonanywhere.com/)  
 - [Github](https://github.com/DnD-Combat-Tracker) (Robert and I made the DS-API)
-- [LinkedIn](https://www.linkedin.com/in/ethan-jansen-957738190/)
+- [LinkedIn](https://www.linkedin.com/in/ethanjansen/)
 
