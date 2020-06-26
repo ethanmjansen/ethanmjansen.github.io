@@ -17,4 +17,4 @@ This is an example of what my API gives to my front end. If a user wants to iden
 - [Hacker News](https://news.ycombinator.com/)  
 - [Vader Sentiment Analysis](https://pypi.org/project/vaderSentiment/)
 - [Github](https://github.com/Saltiest-Hacker-News-Troll-2) (I did the DS1 and DS2 portions)  
-- [LinkedIn](https://www.linkedin.com/in/ethan-jansen-957738190/)
+- [LinkedIn](https://www.linkedin.com/in/ethanjansen/)
