@@ -16,4 +16,4 @@ This is an example of what the recommendation system gives to my front end throu
 ### Links  
 - [Wikipedia Cosine similarity](https://en.wikipedia.org/wiki/Cosine_similarity)  
 - [Github](https://github.com/bw-med-cabinet-3) (I did the DS portion)  
-- [LinkedIn](https://www.linkedin.com/in/ethan-jansen-957738190/)
+- [LinkedIn](https://www.linkedin.com/in/ethanjansen/)
